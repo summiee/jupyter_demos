@@ -1,2 +1,2 @@
-# jupyter_demos
-jupyter nootbooks for testing and illustration purposes
+# Demos as Jupyter Notebooks
+for learning, testing, documenting and illustrating  
